@@ -1,11 +1,13 @@
 {
   "author": {
+    "name": "Contributors",
     "url": "https://github.com/automated-tools/automated/graphs/contributors"
   },
   "bugs": {
     "url": "https://github.com/automated-tools/automated/issues"
   },
   "description": "Oh! We’ve moved",
+  "files": [],
   "homepage": "https://github.com/automated-tools/automated",
   "license": "Apache-2.0",
   "main": "README.md",
@@ -14,5 +16,5 @@
     "type": "git",
     "url": "git+https://github.com/automated-tools/automated.git"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
